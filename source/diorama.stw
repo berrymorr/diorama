@@ -1,0 +1,20 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=core\core.stp
+Dependencies=
+
+[Project1]
+Filename=sound\sound.stp
+Dependencies=
+
+[Project2]
+Filename=light\light.stp
+Dependencies=
+[Options]
+ActiveProject=core
+ActiveConfig=Debug
+AddSortedElements=0
